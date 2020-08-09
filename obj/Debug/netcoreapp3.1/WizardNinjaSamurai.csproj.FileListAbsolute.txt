@@ -1,0 +1,12 @@
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/obj/Debug/netcoreapp3.1/WizardNinjaSamurai.csprojAssemblyReference.cache
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/obj/Debug/netcoreapp3.1/WizardNinjaSamurai.AssemblyInfoInputs.cache
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/obj/Debug/netcoreapp3.1/WizardNinjaSamurai.AssemblyInfo.cs
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/obj/Debug/netcoreapp3.1/WizardNinjaSamurai.csproj.CoreCompileInputs.cache
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/bin/Debug/netcoreapp3.1/WizardNinjaSamurai.deps.json
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/bin/Debug/netcoreapp3.1/WizardNinjaSamurai.runtimeconfig.json
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/bin/Debug/netcoreapp3.1/WizardNinjaSamurai.runtimeconfig.dev.json
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/bin/Debug/netcoreapp3.1/WizardNinjaSamurai.dll
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/bin/Debug/netcoreapp3.1/WizardNinjaSamurai.pdb
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/obj/Debug/netcoreapp3.1/WizardNinjaSamurai.dll
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/obj/Debug/netcoreapp3.1/WizardNinjaSamurai.pdb
+/Users/kristinsimmons/Desktop/coding_dojo/C#/WizardNinjaSamurai/obj/Debug/netcoreapp3.1/WizardNinjaSamurai.genruntimeconfig.cache
