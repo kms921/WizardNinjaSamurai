@@ -14,7 +14,7 @@ namespace WizardNinjaSamurai
 
         {}
 
-        public override int Attack(Human target)
+        public override int Attack(Human target) 
 
         {
             int crit = 0; 
